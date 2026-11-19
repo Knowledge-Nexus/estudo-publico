@@ -1,0 +1,20 @@
+{
+  "schema_version": 5,
+  "search_schema_version": 1,
+  "built_at": "2026-11-19T15:25:53+00:00",
+  "built_from": null,
+  "scope": "public",
+  "files": {
+    "meta.db": {
+      "size": 139264,
+      "sha256": "fd0627ef43c6dc0c8c1ac92a4ec96eab8dc94454be2338d18e60f2ba273053b2"
+    },
+    "pesquisa.db.gz": {
+      "size": 1008,
+      "sha256": "e6c43350b5a889cf2e60eacd542663f3690e7e34890f5cd45f3724b286687372"
+    }
+  },
+  "content_digest": "0bdb99e2c56f9045dad7acbccf37a8074cbd9ea723382cfbcbc2a36b1747abaa",
+  "documents": 0,
+  "owner": "Knowledge-Nexus"
+}
