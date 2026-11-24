@@ -1,0 +1,101 @@
+{
+  "schema_version": 6,
+  "search_schema_version": 2,
+  "built_at": "2026-11-24T12:44:49+00:00",
+  "built_from": null,
+  "scope": "public",
+  "search": {
+    "version": 2,
+    "shards": [
+      "pesquisa-00.db.gz",
+      "pesquisa-01.db.gz",
+      "pesquisa-02.db.gz",
+      "pesquisa-03.db.gz",
+      "pesquisa-04.db.gz",
+      "pesquisa-05.db.gz",
+      "pesquisa-06.db.gz",
+      "pesquisa-07.db.gz",
+      "pesquisa-08.db.gz",
+      "pesquisa-09.db.gz",
+      "pesquisa-0a.db.gz",
+      "pesquisa-0b.db.gz",
+      "pesquisa-0c.db.gz",
+      "pesquisa-0d.db.gz",
+      "pesquisa-0e.db.gz",
+      "pesquisa-0f.db.gz"
+    ]
+  },
+  "files": {
+    "meta.db": {
+      "size": 139264,
+      "sha256": "81609296e5a555dfe40fb49101838d29532ab70de98a36af089daa0f950973b5"
+    },
+    "pesquisa-00.db.gz": {
+      "size": 884,
+      "sha256": "a3ca901cf0a2907e87a6125fbe413be5d99bd42178b05eb4a5bc3bfeda0d996c"
+    },
+    "pesquisa-01.db.gz": {
+      "size": 884,
+      "sha256": "ff82d21750236dbbc8dcec94daae6009724f71a18d68b23927daf145ce922e19"
+    },
+    "pesquisa-02.db.gz": {
+      "size": 883,
+      "sha256": "638617a132ac119943952e3c16b21e3260799b24c25562ba358cddfb1f515a06"
+    },
+    "pesquisa-03.db.gz": {
+      "size": 884,
+      "sha256": "8afbde2037a5c293fda2d2f4912c5c6d484819bd6cb7d0b4f3704ab9cf7efce8"
+    },
+    "pesquisa-04.db.gz": {
+      "size": 884,
+      "sha256": "3707e1b50a29db6297722b80d47e5c1d2f496293e9f7be686ea88fb53c20b7bb"
+    },
+    "pesquisa-05.db.gz": {
+      "size": 884,
+      "sha256": "6851e6db2112cda3df8fdb345ff77055cea29560ae453685dab6cf029a8046fe"
+    },
+    "pesquisa-06.db.gz": {
+      "size": 883,
+      "sha256": "897920e495ba086baa7b18af75020e61335ae09dd64906fc1431f905e6543532"
+    },
+    "pesquisa-07.db.gz": {
+      "size": 884,
+      "sha256": "ad7dd2704e7336e173dd0c74b516a3d9f598a00b8c6a6e0bfebe2049307aca34"
+    },
+    "pesquisa-08.db.gz": {
+      "size": 885,
+      "sha256": "ff5c006a105150f6f3311cc3e28a697f28b24690cf0107d26c0a5f51fec3afb4"
+    },
+    "pesquisa-09.db.gz": {
+      "size": 885,
+      "sha256": "9d08101ea9e80e402dc35f703e26f1d065d1d443e3181ee297c7cd2ac7ab0ecc"
+    },
+    "pesquisa-0a.db.gz": {
+      "size": 884,
+      "sha256": "321b9db7881efeb66939e79e13ec35127b2cc524030c245bb6716fe534464e24"
+    },
+    "pesquisa-0b.db.gz": {
+      "size": 884,
+      "sha256": "bc670d6edade76a5d84bd55c309029721b98f51800193f96ef88ae66fb555e4b"
+    },
+    "pesquisa-0c.db.gz": {
+      "size": 884,
+      "sha256": "12d3dfc96832f3e80ed5f643bd312fdc10bef92237b76db7b115e15ff6b80370"
+    },
+    "pesquisa-0d.db.gz": {
+      "size": 883,
+      "sha256": "2d37524ada77f6f096cf324080e63c2ef0b62a73b5f22ea9d4634a5e623541da"
+    },
+    "pesquisa-0e.db.gz": {
+      "size": 884,
+      "sha256": "682ad717f0da6ae9301d34014e3da5c56028f34760d376dc44f005361a1c27fc"
+    },
+    "pesquisa-0f.db.gz": {
+      "size": 883,
+      "sha256": "acfb4cee5553e5bbda7f0c05918a1988f983c32c76bd8eaf88c9cc8aa378d1d1"
+    }
+  },
+  "content_digest": "ed298869c49f8da8c5ef3570555b21d0935024cb562297a298a7a4b9f1b75226",
+  "documents": 0,
+  "owner": "Knowledge-Nexus"
+}
